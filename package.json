@@ -1,0 +1,43 @@
+{
+    "name": "backend-correduria",
+    "version": "1.0.0",
+    "description": "backend seguros jose angel",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js",
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/josesanc29/backend-correduria.git"
+    },
+    "keywords": [
+        "seguros",
+        "productos",
+        "financieros",
+        "vida",
+        "hogar",
+        "coche"
+    ],
+    "author": "Jose Sanchez Diez",
+    "license": "ISC",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "jsonwebtoken": "^8.1.0",
+        "mongoose": "^4.13.5",
+        "mongoose-unique-validator": "^1.0.6",
+        "serve-index": "^1.9.1"
+    },
+    "devDependencies": {
+        "@types/express": "^4.16.1",
+        "@types/socket.io": "^2.1.2",
+        "nodemon": "^1.12.1",
+        "typescript": "^3.7.5"
+    },
+    "bugs": {
+        "url": "https://github.com/josesanc29/backend-correduria/issues"
+    },
+    "homepage": "https://github.com/josesanc29/backend-correduria#readme"
+}
