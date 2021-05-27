@@ -1,6 +1,6 @@
-# Proyecto IFM backend 
+# Proyecto backend 
 
-Parte Nodejs+Expressjs del proyecto de IFM
+Parte Nodejs+Expressjs del proyecto de correduria de seguros
 
 # Descarga proyecto
 
